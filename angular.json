@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mda"
+    }
+  },
+  "defaultProject": "mda",
+  "cli": {
+    "analytics": "b50282a5-169b-42e5-9924-5733222ea018"
+  }
 }

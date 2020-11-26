@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@media screen and (max-width:480px){
+	body {
+		font-size:80%; 
+	} 
+}
+
+body{
+    background-color: black;
+}
+
+a.button {
+-webkit-appearance: button;
+-moz-appearance: button;
+appearance: button;
+
+text-decoration: navy;
+color: orange;
+}
